@@ -8,9 +8,9 @@ import shutil
 import argparse
 import time
 
-INPUT_DIR = '/users/yurivolchkov/src/tmp/scanned'
-OUT_DIR = '/Users/yurivolchkov/src/tmp/output'
-ARCHIVE_DIR = '/Users/yurivolchkov/src/tmp/archive'
+INPUT_DIR = '/input'
+OUT_DIR = '/output'
+ARCHIVE_DIR = '/archive'
 
 logging.basicConfig(level=logging.INFO)
 
